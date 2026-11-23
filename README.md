@@ -1,4 +1,4 @@
-# rankability-com
+# Rankability
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,159 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-rankability-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://rankability.com/
+Rankability is an AI‑driven search marketing company that helps businesses improve their online visibility by optimizing content for AI‑powered search results. Their platform offers tools for research, creation, optimization, auditing, promotion, tracking, and automation, serving marketing teams, agencies, and small businesses. Rankability provides consulting, training, and a suite of SEO services to boost authority and rankings across search engines.
+
+**Areas:** AI Search · SEO · Marketing Platform · Agency Services · Analytics · Automation
+
+## Rankability on APIs.io
+
+Everything profiled for Rankability is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rankability-com/](https://apis.io/providers/rankability-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (24)
+
+- [Rankability Backlink profile API](https://apis.io/apis/rankability-com/rankability-com-backlink-profile-api/) — Saved backlink profile evidence for a client, and explicit refreshes.
+- [Rankability Campaigns API](https://apis.io/apis/rankability-com/rankability-com-campaigns-api/) — Client campaign records: context, log entries, snapshots and attached documents.
+- [Rankability Clients API](https://apis.io/apis/rankability-com/rankability-com-clients-api/) — Client workspaces: identity, settings, integrations and Search Console data.
+- [Rankability Completion events API](https://apis.io/apis/rankability-com/rankability-com-completion-events-api/) — Signed webhooks for completed Tracker scans, Researcher jobs, and Page, Site, and connected GBP audits.
+- [Rankability Copywriter API](https://apis.io/apis/rankability-com/rankability-com-copywriter-api/) — SEO content jobs in auto, stepped or Autopilot mode, plus entity research.
+- [Rankability Crawler API](https://apis.io/apis/rankability-com/rankability-com-crawler-api/) — Scrape single pages, crawl sites within bounds and extract structured data.
+- [Rankability GBP Auditor API](https://apis.io/apis/rankability-com/rankability-com-gbp-auditor-api/) — Run connected Google Business Profile audits and read saved reports.
+- [Rankability Jobs and exports API](https://apis.io/apis/rankability-com/rankability-com-jobs-and-exports-api/) — One status contract for asynchronous jobs, artifact inventory and exports.
+- [Rankability Knowledge Base API](https://apis.io/apis/rankability-com/rankability-com-knowledge-base-api/) — Rankability Help Center content for grounding agents.
+- [Rankability Knowledge sources API](https://apis.io/apis/rankability-com/rankability-com-knowledge-sources-api/) — A client's Knowledge sources used for content and Serena grounding.
+- [Rankability MCP API](https://apis.io/apis/rankability-com/rankability-com-mcp-api/) — The mcp API from Rankability — 1 operation(s) for mcp.
+- [Rankability Optimize API](https://apis.io/apis/rankability-com/rankability-com-optimize-api/) — Durable page optimization runs scored against SERP competitors.
+- [Rankability Page Auditor API](https://apis.io/apis/rankability-com/rankability-com-page-auditor-api/) — Single-page and batch AEO/SEO page audits.
+- [Rankability Prospect scans API](https://apis.io/apis/rankability-com/rankability-com-prospect-scans-api/) — AI visibility reports for prospects.
+- [Rankability Prospector API](https://apis.io/apis/rankability-com/rankability-com-prospector-api/) — Opportunity discovery and saved outreach lists.
+- [Rankability Reporter API](https://apis.io/apis/rankability-com/rankability-com-reporter-api/) — AI and organic rank tracking: projects, scans, results, trends and visibility.
+- [Rankability Researcher API](https://apis.io/apis/rankability-com/rankability-com-researcher-api/) — Keyword research jobs and saved Researcher projects.
+- [Rankability Routines and publishing API](https://apis.io/apis/rankability-com/rankability-com-routines-and-publishing-api/) — Recurring Routine state and confirmed, draft-only CMS delivery.
+- [Rankability Saved audit artifacts API](https://apis.io/apis/rankability-com/rankability-com-saved-audit-artifacts-api/) — Saved Batch URL Analyzer runs.
+- [Rankability Search Intelligence API](https://apis.io/apis/rankability-com/rankability-com-search-intelligence-api/) — Live queries across Google and AI platforms.
+- [Rankability SEO Research API](https://apis.io/apis/rankability-com/rankability-com-seo-research-api/) — SEO Research jobs and usage.
+- [Rankability Serena API](https://apis.io/apis/rankability-com/rankability-com-serena-api/) — Read-only consultation with Serena, Rankability's AI SEO director.
+- [Rankability Site Auditor API](https://apis.io/apis/rankability-com/rankability-com-site-auditor-api/) — Full-site crawls with page-level issues.
+- [Rankability Usage API](https://apis.io/apis/rankability-com/rankability-com-usage-api/) — The active metering contract, limits, usage events and estimates.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Rankability Com Webhooks](https://apis.io/asyncapis/rankability-com/rankability-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Rankability Agentic Access](https://apis.io/agentic-access/rankability-com/rankability-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Rankability Com Context](https://apis.io/jsonld/rankability-com/rankability-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Rankability API Rules](https://apis.io/rules/rankability-com/rankability-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Rankability Authentication](https://apis.io/security/rankability-com/rankability-com-authentication/)
+- [Rankability Domain Security](https://apis.io/security/rankability-com/rankability-com-domain-security/)
+- [Rankability Trust Center](https://apis.io/security/rankability-com/rankability-com-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Rankability Scopes](https://apis.io/scopes/rankability-com/rankability-com-scopes/)
+
+#### Plans and pricing (2)
+
+Published plans, tiers and prices.
+
+- [Rankability Plans](https://apis.io/plans/rankability-com/rankability-com-plans/)
+- [Rankability Plans Pricing](https://apis.io/plans/rankability-com/rankability-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://rankability.com/)
+- [Documentation](https://help.rankability.com/)
+- [Getting started](https://help.rankability.com/getting-started/what-is-rankability.html)
+- [API reference](https://www.rankability.com/api/)
+- [Pricing](https://www.rankability.com/pricing/)
+- [Sign up](https://platform.rankability.com/sign-up)
+- [Support](https://help.rankability.com/)
+- [Changelog](https://developers.rankability.com/changelog)
+- [Blog](https://www.rankability.com/blog/)
+- [Compliance](https://www.rankability.com/trust/)
+- [Terms of service](https://www.rankability.com/terms/)
+- [Privacy policy](https://www.rankability.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 67.8** — exemplar · rubric 0.27.0 · scored 2026-11-22
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 58.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 88.9 |
+
+**Agent readiness 69.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | yes |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 39.2** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rankability-com/](https://apis.io/providers/rankability-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Rankability: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/rankability-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
